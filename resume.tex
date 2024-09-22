@@ -1,0 +1,76 @@
+\documentclass{article}
+% Packages for formatting
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{parskip}
+\usepackage{hyperref}
+\usepackage{fontspec}
+
+\setmainfont[
+    BoldFont={montserrat-variablefont_wght}, % Specify the bold font variant
+    BoldFeatures={Weight=700}, % Set the desired weight for bold (e.g., 700)
+    Weight=400 % Set the desired weight for normal text (e.g., 500)
+]{montserrat-variablefont_wght} % Replace with your desired system font
+
+\begin{document}
+\pagenumbering{gobble}
+
+% Your name and contact information
+\begin{center}
+    \textbf{\Huge Fay Knol}
+
+    Software Developer
+    
+    \vspace{5pt}
+    
+    1335 DK, Almere, Flevoland, The Netherlands
+    
+    \vspace{5pt}
+    
+    Phone: (+31) 619541435 \quad Email: fay@fayk.nl \quad LinkedIn: \href{https://www.linkedin.com/in/faykn}{linkedin.com/in/faykn}
+\end{center}
+
+% Education section
+\section*{Education}
+\textbf{Hogeschool Utrecht} \hfill 2023-2028 \\
+Bachelor, HBO-ICT (Open-ICT) \hfill
+
+\textbf{ROC Flevoland} \hfill 2020-2022 \\
+MBO 4, Software Developer \hfill
+
+% Work experience section
+\section*{Work Experience}
+\textbf{Jaspers Media} \hfill May 2022-Aug 2024 \\
+\textit{Full stack developer}, Amsterdam \hfill
+\begin{itemize}[noitemsep]
+    \item After my internship I was hired on as a developer here, during my gap year (-1 month) I was responsible for all critical bugfixes and pull requests.
+\end{itemize}
+\textbf{Jaspers Media} \hfill Nov 2021-May 2022 \\
+\textit{Intern Software developer}, Amsterdam \hfill
+\begin{itemize}[noitemsep]
+    \item At the start of my internship I was mostly busy rewriting our website (with a complete redesign) from Innertia.js to a Nuxt 3 and Laravel app with a focus on SEO and preformance.
+    \item Near the end of the internship the rewrite successfully went live.
+    \item I also closely worked with other interns and coworkers new on the project and taught them how we work with Laravel and Nuxt being the one people went to when they couldn't figure something out.
+\end{itemize}
+
+% Skills section
+\section*{Hard Skills}
+These skills are roughy ordered by how comfortable I am with them, with the first being the most comfortable or experienced.
+\begin{itemize}[noitemsep]
+    \item \textbf{Programming Languages:} PHP, JavaScript, Go
+    \item \textbf{Languages:} Dutch (native), English (fluent)
+    \item \textbf{Frameworks:} Laravel, Nuxt, TailwindCSS, Echo (Go)
+    \item \textbf{Tools:} Git, Docker, Asana, Figma, Jira, Azure DevOps
+    \item \textbf{Databases:} MySQL/MariaDB, Redis, MongoDB
+    \item \textbf{Other:} Linux, Nix
+\end{itemize}
+
+% Soft skills section
+\section*{Soft Skills}
+\begin{itemize}[noitemsep]
+    \item \textbf{Communication:} I am able to communicate clearly and effectively with my coworkers.
+    \item \textbf{Problem Solving:} I am confident in my ability to solve problems quickly and effectively.
+    \item \textbf{Scrum:} I am very familiar with scrum and its principles having used it at both my schools.
+\end{itemize}
+
+\end{document}
