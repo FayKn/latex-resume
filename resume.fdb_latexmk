@@ -1,6 +1,6 @@
 # Fdb version 4
-["lualatex"] 1727027563.45052 "c:/Users/bavof/Documents/Github/latex-resume/resume.tex" "resume.pdf" "resume" 1727027573.12689 0
-  "C:/Users/bavof/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1727024585 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["lualatex"] 1727029307.46027 "c:/Users/bavof/Documents/Github/latex-resume/resume.tex" "resume.pdf" "resume" 1727029315.52209 0
+  "C:/Users/bavof/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1727029151 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/bavof/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1727023697 128420 a254c46fda32502f4796b4730d056514 ""
   "C:/Users/bavof/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1727023697 127337 98296f90fd81df351b0f7be40c7f8110 ""
   "C:/Users/bavof/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/montserrat-variablefont-wght-wght-400.luc" 1727025879 921556 9cc801d6741572eeac600592c9a4b212 ""
@@ -8,7 +8,7 @@
   "C:/Users/bavof/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/montserrat-variablefont-wght.luc" 1727025191 850148 3b5b0acf246535c6d61ecfebdfb1aaac ""
   "C:/Users/bavof/AppData/Local/MiKTeX/luatex-cache/generic/fonts/streams/montserratvariablefontwghtttf-1-wght400.luc" 1727025879 203812 6dd8bed79c810b388ef019c65b993d20 ""
   "C:/Users/bavof/AppData/Local/MiKTeX/luatex-cache/generic/fonts/streams/montserratvariablefontwghtttf-1-wght700.luc" 1727025309 203804 cf3290ecb52b61e68391e24dea7a368f ""
-  "C:/Users/bavof/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.luc" 1727027572 88 6eaf95b49dd101cf2a05b33b874241da "lualatex"
+  "C:/Users/bavof/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.luc" 1727029314 88 6eaf95b49dd101cf2a05b33b874241da "lualatex"
   "C:/Users/bavof/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz" 1727023696 53067 7dc5edd66b06f57099e277acf5d72ba0 ""
   "C:/Users/bavof/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty" 1576433602 40635 c40361e206be584d448876bba8a64a3b ""
   "C:/Users/bavof/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitset.sty" 1575926576 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
@@ -64,6 +64,7 @@
   "C:/Users/bavof/AppData/Local/Programs/MiKTeX/tex/latex/parskip/parskip.sty" 1615976160 4288 94714aa7f535440f33181fec52a31963 ""
   "C:/Users/bavof/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/bavof/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
+  "C:/Users/bavof/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/bavof/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/bavof/AppData/Local/Programs/MiKTeX/tex/luatex/lua-uni-algos/lua-uni-case.lua" 1645889238 1921 020c660fdc1d4c83ffebb059fead7b51 ""
   "C:/Users/bavof/AppData/Local/Programs/MiKTeX/tex/luatex/lua-uni-algos/lua-uni-normalize.lua" 1645889238 21269 eb4154856f0afe9e8d886dbf6922dcc6 ""
@@ -108,11 +109,11 @@
   "C:/Users/bavof/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload-tounicode.lua" 1709104755 7528 245271ce518c136c96f22fee6cb810ab ""
   "C:/Users/bavof/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload-unicode.lua" 1709104755 7917 cebc6454abe34f2fe1c1248f8b2453da ""
   "C:/Users/bavof/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload.lua" 1709104755 13565 50482dad4c221a79dbdbb982122baf8c ""
-  "c:/Users/bavof/Documents/Github/latex-resume/resume.tex" 1727027561 3118 16a88c866f191e6f39460d6cd52ec51d ""
+  "c:/Users/bavof/Documents/Github/latex-resume/resume.tex" 1727029298 3456 98edc4588feaaf6c065b110df5f39275 ""
   "c:/users/bavof/appdata/local/microsoft/windows/fonts/montserrat-variablefont_wght.ttf" 1725491480 394140 9e594ff343e7f183a89fca7fefa7820b ""
-  "resume.aux" 1727027572 162 55205a9e8a8eca30d36afb389b0617bf "lualatex"
-  "resume.out" 1727027572 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
-  "resume.tex" 1727027561 3118 16a88c866f191e6f39460d6cd52ec51d ""
+  "resume.aux" 1727029315 162 55205a9e8a8eca30d36afb389b0617bf "lualatex"
+  "resume.out" 1727029315 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+  "resume.tex" 1727029298 3456 98edc4588feaaf6c065b110df5f39275 ""
   (generated)
   "C:/Users/bavof/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.lua"
   "C:/Users/bavof/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.luc"

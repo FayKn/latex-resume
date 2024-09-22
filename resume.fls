@@ -148,6 +148,8 @@ INPUT C:\Users\bavof\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
 INPUT C:\Users\bavof\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec.cfg
 INPUT C:\Users\bavof\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec.cfg
 INPUT C:\Users\bavof\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\lmroman10-bold.luc
+INPUT C:\Users\bavof\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\bavof\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Users\bavof\AppData\Local\MiKTeX\luatex-cache\generic\names\luaotfload-lookup-cache.luc
 OUTPUT C:\Users\bavof\AppData\Local\MiKTeX\luatex-cache\generic\names\luaotfload-lookup-cache.lua
 OUTPUT C:\Users\bavof\AppData\Local\MiKTeX\luatex-cache\generic\names\luaotfload-lookup-cache.luc
