@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1741508745.31286 "c:/Users/fay/Documents/GitHub/latex-resume/resume.tex" "resume.pdf" "resume" 1741508750.72103 0
+["lualatex"] 1754857426.88162 "c:/Users/fay/Documents/GitHub/latex-resume/resume.tex" "resume.pdf" "resume" 1754857434.66533 0
   "C:/Users/fay/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1741506862 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/fay/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1741506860 128418 b7f829ef7b9605aeddd88dcf46060016 ""
   "C:/Users/fay/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1741506805 127335 9547e677603dc4b9901b5059f5dd0cb4 ""
@@ -8,8 +8,8 @@
   "C:/Users/fay/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/montserrat-variablefont-wght.luc" 1741507054 1485232 a6ac1a59457c16950dc11a081c4eefe1 ""
   "C:/Users/fay/AppData/Local/MiKTeX/luatex-cache/generic/fonts/streams/montserratvariablefontwghtttf-1-wght400.luc" 1741507061 278686 652782c6faebe6b1ed7d08eacddcc150 ""
   "C:/Users/fay/AppData/Local/MiKTeX/luatex-cache/generic/fonts/streams/montserratvariablefontwghtttf-1-wght700.luc" 1741507061 278717 fdaae9c9af5b454e2e6246a70a642b19 ""
-  "C:/Users/fay/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.luc" 1741508750 88 6eaf95b49dd101cf2a05b33b874241da "lualatex"
-  "C:/Users/fay/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz" 1741507052 51767 afb422c3fae58eab50cdb3c6ca984af7 ""
+  "C:/Users/fay/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.luc" 1754857433 88 6eaf95b49dd101cf2a05b33b874241da "lualatex"
+  "C:/Users/fay/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz" 1754856229 51972 ed6ddb9e66b4bc1b2a3545a7348b5c34 ""
   "C:/Users/fay/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty" 1576433602 40635 c40361e206be584d448876bba8a64a3b ""
   "C:/Users/fay/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitset.sty" 1575926576 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
   "C:/Users/fay/AppData/Local/Programs/MiKTeX/tex/generic/gettitlestring/gettitlestring.sty" 1576433666 8371 9d55b8bd010bc717624922fb3477d92e ""
@@ -108,11 +108,11 @@
   "C:/Users/fay/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload-tounicode.lua" 1740607740 7529 21fe79d2526f3c3d789a9cc0366347ab ""
   "C:/Users/fay/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload-unicode.lua" 1740607740 7918 4272855a25780b80472f3b58edd95e33 ""
   "C:/Users/fay/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload.lua" 1740607740 13566 16df94dd2de231b2bca0aaa0190941fe ""
-  "c:/Users/fay/Documents/GitHub/latex-resume/resume.tex" 1741508740 3826 f0ed303a4d11ec70bbe3dfc45ccb5dc5 ""
+  "c:/Users/fay/Documents/GitHub/latex-resume/resume.tex" 1754857427 4244 d58f2cb34c7062e6c778b3e5067dd8c3 ""
   "c:/users/fay/appdata/local/microsoft/windows/fonts/montserrat-variablefont_wght.ttf" 1730940568 688600 cee34d9ea4ff71b2100689cfca1ecd15 ""
-  "resume.aux" 1741508750 162 87159b23cce7c2b923b11c85495bbd6d "lualatex"
-  "resume.out" 1741508750 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
-  "resume.tex" 1741508740 3826 f0ed303a4d11ec70bbe3dfc45ccb5dc5 ""
+  "resume.aux" 1754857434 162 87159b23cce7c2b923b11c85495bbd6d "lualatex"
+  "resume.out" 1754857434 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+  "resume.tex" 1754857427 4244 d58f2cb34c7062e6c778b3e5067dd8c3 ""
   (generated)
   "C:/Users/fay/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.lua"
   "C:/Users/fay/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.luc"
