@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (MiKTeX 25.2) (format=lualatex 2025.3.9)  23 JAN 2026 10:05
+This is LuaHBTeX, Version 1.21.0 (MiKTeX 25.2) (format=lualatex 2025.3.9)  1 FEB 2026 19:12
  restricted system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/fay/Documents/GitHub/latex-resume/resume.tex
@@ -464,23 +464,19 @@ ned
 nput line 50.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+[1
+
+{C:/Users/fay/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
 
 
-[1
-
-{C:/Users/fay/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[2]
-
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[3] (./resume.aux)
+[2] (./resume.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -499,16 +495,16 @@ Here is how much of LuaTeX's memory you used:
  441 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 53 glue_spec,
  5 attribute_list, 1 write, 1 pdf_action nodes
-   avail lists: 1:2,2:357,3:327,4:7,5:1341,6:81,7:7374,8:2,9:330,10:6,11:411
+   avail lists: 1:2,2:302,3:281,4:7,5:1157,6:68,7:6400,8:2,9:284,10:6,11:369
  34166 multiletter control sequences out of 65536+600000
  25 fonts using 4715895 bytes
- 79i,5n,92p,1237b,446s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,5n,92p,1237b,328s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/users/fay/appdata/local/microsoft/windows/fonts/montserrat-variablefont_wght
 .ttf><c:/users/fay/appdata/local/microsoft/windows/fonts/montserrat-variablefont
 _wght.ttf>
-Output written on resume.pdf (3 pages, 33726 bytes).
+Output written on resume.pdf (2 pages, 33278 bytes).
 
-PDF statistics: 41 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 38 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
